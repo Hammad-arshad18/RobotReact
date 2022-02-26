@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "cfaa9037dc2541e9a572",
+    "revision": "c94fbc258d6dcb938f0a",
     "url": "/RobotReact/static/css/main.375c2296.chunk.css"
   },
   {
-    "revision": "cfaa9037dc2541e9a572",
-    "url": "/RobotReact/static/js/main.cfaa9037.chunk.js"
+    "revision": "c94fbc258d6dcb938f0a",
+    "url": "/RobotReact/static/js/main.c94fbc25.chunk.js"
   },
   {
     "revision": "7ab2393a9ad8c2b58dcd",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/RobotReact/static/js/runtime~main.b79719b5.js"
   },
   {
-    "revision": "33020e0017427de2da3f0f1933059d02",
+    "revision": "14aec1100cba2ba55953c19c99ea9a92",
     "url": "/RobotReact/index.html"
   }
 ];

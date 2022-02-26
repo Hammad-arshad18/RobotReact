@@ -1,7 +1,7 @@
 {
   "main.css": "/RobotReact/static/css/main.375c2296.chunk.css",
-  "main.js": "/RobotReact/static/js/main.cfaa9037.chunk.js",
-  "main.js.map": "/RobotReact/static/js/main.cfaa9037.chunk.js.map",
+  "main.js": "/RobotReact/static/js/main.c94fbc25.chunk.js",
+  "main.js.map": "/RobotReact/static/js/main.c94fbc25.chunk.js.map",
   "static/js/1.7ab2393a.chunk.js": "/RobotReact/static/js/1.7ab2393a.chunk.js",
   "static/js/1.7ab2393a.chunk.js.map": "/RobotReact/static/js/1.7ab2393a.chunk.js.map",
   "static/css/2.b856cbbf.chunk.css": "/RobotReact/static/css/2.b856cbbf.chunk.css",
@@ -12,6 +12,6 @@
   "static/css/main.375c2296.chunk.css.map": "/RobotReact/static/css/main.375c2296.chunk.css.map",
   "static/css/2.b856cbbf.chunk.css.map": "/RobotReact/static/css/2.b856cbbf.chunk.css.map",
   "index.html": "/RobotReact/index.html",
-  "precache-manifest.a72c1f2de7d75089436343ab64b01947.js": "/RobotReact/precache-manifest.a72c1f2de7d75089436343ab64b01947.js",
+  "precache-manifest.44dbc2d23e841c0cd24d98d28ec14a79.js": "/RobotReact/precache-manifest.44dbc2d23e841c0cd24d98d28ec14a79.js",
   "service-worker.js": "/RobotReact/service-worker.js"
 }
